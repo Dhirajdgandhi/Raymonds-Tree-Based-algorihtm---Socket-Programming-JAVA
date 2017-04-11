@@ -21,6 +21,9 @@ Node1,2,3,4,5 - Nodes of Distributed system.
 Node 1 - only server.
 Node 2 - Server as well as client.
 Node 3, Node 4,Node5 - Only client.
+cl_thread - this is Our thread type. It contains our main implementation.
+Critical Section - Runs CS for 10 seconds.
+
 #
 Initially Node1 is ROOT.
 Holder value points to Parent Node.
